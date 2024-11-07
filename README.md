@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/ce2c5d03-74e4-4a16-8562-42f15ddc0565
 # Создание приложения для автоматизации измерения характеристик сердца по видео УЗИ
 ## Общая информация о проекте
 ### Потребности, приведшие к созданию данного проекта
@@ -104,16 +106,16 @@
 Для воспроизведения откройте в новой вкладке:
 
 <div style="display: flex;">
-    <a href="https://github.com/user-attachments/assets/fda442f7-77bf-4684-b112-579ef0672533">
+    <a href="https://github.com/user-attachments/assets/641621b3-b7a2-417b-a23b-78c43b741c1a">
         <img src="assets/II_12_img.PNG" alt="II_12" width="300">
     </a>
-    <a href="https://github.com/user-attachments/assets/b677f43a-0534-4cb7-9786-f1f9d5af137d">
+    <a href="https://github.com/user-attachments/assets/6291dbc2-266d-43e3-85a2-cd445b4557b6">
         <img src="assets/II_16_img.PNG" alt="II_16" width="300">
     </a>
-    <a href="https://github.com/user-attachments/assets/8a9a9c0b-75da-4749-beef-f648a3b2c17f">
+    <a href="https://github.com/user-attachments/assets/00ab899e-e0ea-48e2-b709-4a2b495f67a3">
         <img src="assets/II_23_img.PNG" alt="II_23" width="300">
     </a>
-    <a href="https://github.com/user-attachments/assets/0c15bcb2-480d-4daa-aa94-9165494c3cf2">
+    <a href="https://github.com/user-attachments/assets/04a6282f-d3a7-4690-a076-9882bea7635d">
         <img src="assets/II_24_img.PNG" alt="II_24" width="300">
     </a> 
 </div>
