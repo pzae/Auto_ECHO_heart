@@ -314,10 +314,10 @@ RV: 0.783 <br>
 
 <div style="display: flex;">
     <a href="https://github.com/user-attachments/assets/8cb213d9-e93d-41ed-8dba-a262f154cad8">
-        <img src="assets/II_16_img.png" alt="II_16" width="300">
+        <img src="assets/II_16_img.png" alt="II_16" width="400">
     </a>
     <a href="https://github.com/user-attachments/assets/8efcb1d6-cf08-4650-9e8d-876fefe91650">
-        <img src="assets/II_21_img.png" alt="II_23" width="300">
+        <img src="assets/II_21_img.png" alt="II_23" width="400">
     </a>
 </div>
 
