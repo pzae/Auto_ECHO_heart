@@ -258,7 +258,7 @@ RV: 0.783
 
 Так же видео обучения модели.
 <a href="https://github.com/user-attachments/assets/0f742c92-5e3c-458d-bd51-9406cd7a7a2c">
-    <img src="assets/yolov8m_train50_epoch50_bs8_experiment_25-11-12_11-31.PNG" alt="yolov8m_train436_epoch50" width="600">
+    <img src="assets/yolov8m_train50_epoch50_bs8_experiment_25-11-12_11-31.png" alt="yolov8m_train436_epoch50" width="600">
 </a>
 
 В отличие от обучения на полной выборке, на первых эпохах заметно больше ложноположительных срабатываний, особенно для LV и RV, что приводит к очень низким значениями map75. Однако итоговая форма определяемых сегментов довольна близка к разметке.
